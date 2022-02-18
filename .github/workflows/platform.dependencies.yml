@@ -21,7 +21,6 @@ on:
   #     - '.github/actions/templates/validateModuleDeployment/**'
   #     - '.github/workflows/platform.dependencies.yml'
   #     - 'utilities/pipelines/dependencies/**'
-  # comentario para actualizar el docto
 
 env:
   defaultLocation: 'WestEurope'
